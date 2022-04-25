@@ -1,6 +1,6 @@
 # Automated Part Remover for Creality 3D Printers
 
-This repo contains the necessary files to upgrade your printer with an automated low-cost part removal system.
+This repo contains the necessary files to upgrade your printer with an automated low-cost part removal system, as originally presented in the publication _"Generalisable 3D Printing Error Detection and Correction via Multi-Head Neural Networks"_.
 
 ![Automated 3D Printer Part Remover](media/images-of-remover.jpg)
 
