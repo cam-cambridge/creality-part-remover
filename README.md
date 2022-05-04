@@ -14,7 +14,7 @@ Assembly is easy with magnets press fitting into the designed recesses in the pr
 
 ![Automated 3D Printer Part Remover](media/assembly.png)
 
-An example g-code script is including for docking the printing head in the remover and dragging the removal system across the build surface to remove a part. This example is written for a Creality CR-20 Pro and may require modification.
+An example g-code script is including for docking the printing head in the remover and dragging the removal system across the build surface to remove a part. This example is written for a Creality CR-20 Pro running Marlin firmware v1.1.9 and may require modification. 
 
 Here is a GIF showing the automatic removal system removing a printed Cali Cat test part in PLA as an illustrative example.
 
